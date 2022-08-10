@@ -2564,3 +2564,7 @@ input, select, textarea {
 	.main strong{
 		font-style: bold;
 	}
+
+	#about {
+		text-align: left;
+	}
